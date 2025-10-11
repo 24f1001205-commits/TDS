@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Sodium",
+        "Aluminium",
+        "Copper",
+        "Lead"
+      ],
+      "answer": "Mercury"
+    }
+  ]
+}
